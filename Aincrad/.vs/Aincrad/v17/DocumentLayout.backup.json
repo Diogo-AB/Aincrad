@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo\\Downloads\\Aincrad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8873CD3B-9234-7580-D2E0-35E18FE2AD97}|Assembly-CSharp.csproj|c:\\users\\diogo\\downloads\\aincrad\\assets\\script\\handdatareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8873CD3B-9234-7580-D2E0-35E18FE2AD97}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\handdatareceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8873CD3B-9234-7580-D2E0-35E18FE2AD97}|Assembly-CSharp.csproj|c:\\users\\diogo\\downloads\\aincrad\\assets\\script\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8873CD3B-9234-7580-D2E0-35E18FE2AD97}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Downloads\\Aincrad\\Assets\\Script\\HandController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HandController.cs",
+              "ToolTip": "C:\\Users\\diogo\\Downloads\\Aincrad\\Assets\\Script\\HandController.cs",
+              "RelativeToolTip": "Assets\\Script\\HandController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:41:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandDataReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Downloads\\Aincrad\\Assets\\Script\\HandDataReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HandDataReceiver.cs",
+              "ToolTip": "C:\\Users\\diogo\\Downloads\\Aincrad\\Assets\\Script\\HandDataReceiver.cs",
+              "RelativeToolTip": "Assets\\Script\\HandDataReceiver.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:16:52.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
